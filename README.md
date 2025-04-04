@@ -46,7 +46,11 @@ The goal is to present an interactive and intuitive dashboard that enables stake
 
 - Created calculated columns and measures using DAX in Power BI
 
-📑 **Dashboard Overview – Page 1: Calls Analysis**  
+📑 **Dashboard Overview – Calls Analysis**  
+
+
+![Image](https://github.com/user-attachments/assets/972b39cb-dec1-4e99-8b40-f7977bf4d21e)
+
 
 📌**Key KPIs**:  
 - **Total Calls**: 5,000
