@@ -112,7 +112,8 @@ The goal is to present an interactive and intuitive dashboard that enables stake
 
   - Implement self-service or proactive communication for common issues (like payments or streaming)
 
-📋 **Summary**
+📋 **Summary**  
+
 The Call Center Analysis dashboard provides a comprehensive view of operational performance over three months (Jan–Mar 2021), allowing business stakeholders to:
 
   - Improve resolution and satisfaction rates
@@ -123,7 +124,8 @@ The Call Center Analysis dashboard provides a comprehensive view of operational 
 
   - Boost overall customer experience and retention
 
-🔚 **Conclusion**
+🔚 **Conclusion**  
+
 This project showcases how effective data visualization and analysis using Power BI can help businesses:
 
   - Identify bottlenecks in customer service
