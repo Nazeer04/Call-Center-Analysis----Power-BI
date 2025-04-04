@@ -6,29 +6,28 @@ This project focuses on analyzing the performance of a call center using data pr
 The goal is to present an interactive and intuitive dashboard that enables stakeholders to optimize staffing, improve customer service processes, and ultimately enhance the customer experience. This data-driven approach supports strategic decision-making to address key business challenges and improve overall efficiency.
 
 📊 Data Source
-- # Source: PwC Switzerland Virtual Internship Program via Forage
+- **Source**: PwC Switzerland Virtual Internship Program via Forage
 
-Type: Simulated customer service call center dataset
+- **Type**: Simulated customer service call center dataset
+- **Structure**: Each record represents a call and includes fields like:
 
-Structure: Each record represents a call and includes fields like:
+  - Call ID
 
-- Call ID
+  - Agent
 
-- Agent
+  - Date & Time
 
-- Date & Time
+  - Call Topic
 
-- Call Topic
+  - Answered (Yes/No)
 
-- Answered (Yes/No)
+  - Resolved (Yes/No)
 
-- Resolved (Yes/No)
+  - Speed of Answer (seconds)
 
-- Speed of Answer (seconds)
+  - Average Talk Duration
 
-- Average Talk Duration
-
-- Satisfaction Rating
+  - Satisfaction Rating
 
 
 
