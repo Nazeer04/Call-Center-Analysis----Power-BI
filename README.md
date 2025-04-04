@@ -5,7 +5,7 @@ This project focuses on analyzing the performance of a call center using data pr
 
 The goal is to present an interactive and intuitive dashboard that enables stakeholders to optimize staffing, improve customer service processes, and ultimately enhance the customer experience. This data-driven approach supports strategic decision-making to address key business challenges and improve overall efficiency.
 
-📊 Data Source
+📊 **Data Source**
 - **Source**: PwC Switzerland Virtual Internship Program via Forage
 
 - **Type**: Simulated customer service call center dataset
@@ -32,9 +32,9 @@ The goal is to present an interactive and intuitive dashboard that enables stake
 
 🛠️**Tools Used**   
 
-**Microsoft Excel** – Data Cleaning
+  **Microsoft Excel** – Data Cleaning
 
-**Power BI** – DAX, Data Modeling, Visualizations, Interactive Dashboard Creation
+  **Power BI** – DAX, Data Modeling, Visualizations, Interactive Dashboard Creation
 
 🧹 **Data Preparation**  
 
@@ -81,55 +81,56 @@ The goal is to present an interactive and intuitive dashboard that enables stake
 
    - Technical Support had relatively better resolution rates
 
-🎛️ Filters Available:
-Date
+🎛️ **Filters Available**:  
 
-Month
+- Date
 
-Agent
+- Month
 
-Topic
+- Agent
 
-📈 Key Insights & Recommendations
-🔍 Insights:
-81% of calls were answered, but 19% were abandoned
+- Topic
 
-Nearly 73% of answered calls were resolved
+📈 **Key Insights & Recommendations**
+🔍 **Insights**:  
+  - 81% of calls were answered, but 19% were abandoned
 
-Peak traffic was observed on Mondays and Saturdays, especially between 11 AM – 3 PM
+  - Nearly 73% of answered calls were resolved
 
-Streaming and payment issues caused a significant number of abandoned calls
+  - Peak traffic was observed on Mondays and Saturdays, especially between 11 AM – 3 PM
 
-Overall customer satisfaction rating was 3.4/5
+  - Streaming and payment issues caused a significant number of abandoned calls
 
-✅ Recommendations:
-Increase call center staffing during peak hours and high-traffic days
+  - Overall customer satisfaction rating was 3.4/5
 
-Improve agent response speed to reduce abandonment rate
+✅ **Recommendations**:  
+  - Increase call center staffing during peak hours and high-traffic days
 
-Provide targeted support/training for topics with high unresolved or abandoned calls
+  - Improve agent response speed to reduce abandonment rate
 
-Implement self-service or proactive communication for common issues (like payments or streaming)
+  - Provide targeted support/training for topics with high unresolved or abandoned calls
 
-📋 Summary
+  - Implement self-service or proactive communication for common issues (like payments or streaming)
+
+📋 **Summary**
 The Call Center Analysis dashboard provides a comprehensive view of operational performance over three months (Jan–Mar 2021), allowing business stakeholders to:
 
-Improve resolution and satisfaction rates
+  - Improve resolution and satisfaction rates
 
-Reduce customer drop-offs and call abandonment
+  - Reduce customer drop-offs and call abandonment
 
-Make informed staffing and training decisions
+  - Make informed staffing and training decisions
 
-Boost overall customer experience and retention
+  - Boost overall customer experience and retention
 
-🔚 Conclusion
+🔚 **Conclusion**
 This project showcases how effective data visualization and analysis using Power BI can help businesses:
 
-Identify bottlenecks in customer service
+  - Identify bottlenecks in customer service
 
-Monitor operational performance
+  - Monitor operational performance
 
-Drive improvements with actionable insights
+  - Drive improvements with actionable insights
 
 
 
