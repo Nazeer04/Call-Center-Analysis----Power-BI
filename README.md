@@ -48,8 +48,7 @@ The goal is to present an interactive and intuitive dashboard that enables stake
 
 📑 **Dashboard Overview – Calls Analysis**  
 
-
-![Image](https://github.com/user-attachments/assets/972b39cb-dec1-4e99-8b40-f7977bf4d21e)
+![Image](https://github.com/user-attachments/assets/bf8a840c-21cc-46ef-901b-71bf1cd1d11f)
 
 
 📌**Key KPIs**:  
